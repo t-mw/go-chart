@@ -3,8 +3,8 @@ package chart
 import (
 	"fmt"
 
-	"github.com/wcharczuk/go-chart/seq"
-	util "github.com/wcharczuk/go-chart/util"
+	"github.com/t-mw/go-chart/seq"
+	util "github.com/t-mw/go-chart/util"
 )
 
 // LinearRegressionSeries is a series that plots the n-nearest neighbors

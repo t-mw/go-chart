@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math"
 
-	util "github.com/wcharczuk/go-chart/util"
+	util "github.com/t-mw/go-chart/util"
 )
 
 // AnnotationSeries is a series of labels on the chart.
